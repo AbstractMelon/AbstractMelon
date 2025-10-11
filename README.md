@@ -1,12 +1,12 @@
 # Welcome!
 
-I'm Melon, a kid from Utah, USA. Welcome to my corner of GitHub!
+I'm Melon, a teenager from Utah, USA. Welcome to my corner of GitHub!
 
 ## About Me
 
 Im a young kid who likes to program durring his free time! I am open to help with almost any project and I love to work pretty much anything!
 
--  I’m currently learning C++
+- I’m currently learning C++
 - Open to collaboration on anything!
 
 
